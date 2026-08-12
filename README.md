@@ -1,2 +1,2 @@
-# python---ubayd
+# python - ubayd
 Author - mufti
